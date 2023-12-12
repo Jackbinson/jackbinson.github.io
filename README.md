@@ -6,17 +6,17 @@ Hello everybody, my name is hung and I am trying to be good at technology and th
      - Learning new stuffs.
 
 Link to the topic:
-[Topic](https://jack.github.io/)
-##for Code reading notes 102##
-  - [file1](https://github.com/Jackbinson/Reading-note-102/blob/main/file1)
-  - [file2](https://github.com/Jackbinson/Reading-note-102/blob/main/file2)
-  - [file3](https://github.com/Jackbinson/Reading-note-102/blob/main/file3)
-  - [file4](https://github.com/Jackbinson/Reading-note-102/blob/main/file4)
-  - [file5](https://github.com/Jackbinson/Reading-note-102/blob/main/file5)
-  - [file6](https://github.com/Jackbinson/Reading-note-102/blob/main/file6)
-  - [file7](https://github.com/Jackbinson/Reading-note-102/blob/main/file7)
-  - [file8](https://github.com/Jackbinson/Reading-note-102/blob/main/file8)
- ##Heading for Code reading notes 201##
+ -[Topic](https://jack.github.io/)
+ -***Heading for code readning notes 102***
+    -[file1](https://github.com/Jackbinson/Reading-note-102/blob/main/file1)
+    -[file2](https://github.com/Jackbinson/Reading-note-102/blob/main/file2)
+    -[file3](https://github.com/Jackbinson/Reading-note-102/blob/main/file3)
+    -[file4](https://github.com/Jackbinson/Reading-note-102/blob/main/file4)
+    -[file5](https://github.com/Jackbinson/Reading-note-102/blob/main/file5)
+    -[file6](https://github.com/Jackbinson/Reading-note-102/blob/main/file6)
+    -[file7](https://github.com/Jackbinson/Reading-note-102/blob/main/file7)
+    -[file8](https://github.com/Jackbinson/Reading-note-102/blob/main/file8)
+  -**Heading for Code reading notes 201***
  -[file 1](https://github.com/Jackbinson/Reading-note-201/blob/main/file1)
  -[file 2](https://github.com/Jackbinson/Reading-note-201/blob/main/file2)
  -[file 3](https://github.com/Jackbinson/Reading-note-201/blob/main/file3)
