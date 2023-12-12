@@ -4,9 +4,8 @@ Hello everybody, my name is hung and I am trying to be good at technology and th
      - Playing sports
      - Listening to music
      - Learning new stuffs.
-
-Link to the topic:
- -[Topic](https://jack.github.io/)
+  -Link to the topic:
+  -[Topic](https://jack.github.io/)
  -***Heading for code readning notes 102***
     -[file1](https://github.com/Jackbinson/Reading-note-102/blob/main/file1)
     -[file2](https://github.com/Jackbinson/Reading-note-102/blob/main/file2)
